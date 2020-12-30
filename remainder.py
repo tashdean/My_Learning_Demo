@@ -6,3 +6,5 @@ else:
     print("Not found")
 
 print("Hello world")
+
+print("Coding is great")
